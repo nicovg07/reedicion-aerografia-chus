@@ -1,10 +1,49 @@
 /* Aerografía Chus. Sin dependencias.
-   Todo el contenido está en el HTML: este archivo solo añade los filtros y el visor. */
+   Todo el contenido está en el HTML: este archivo solo añade el cambio de tema,
+   los filtros y el visor. */
 (function () {
   "use strict";
 
   function safe(fn, name) {
     try { fn(); } catch (e) { console.warn("[" + name + "]", e); }
+  }
+
+  /* ---------- Modo claro y oscuro ----------
+     El tema inicial se fija en el <head> para que no parpadee al cargar. */
+
+  function initTheme() {
+    var btn = document.querySelector("[data-theme-toggle]");
+    if (!btn) return;
+    var root = document.documentElement;
+    var meta = document.querySelector('meta[name="theme-color"]');
+
+    function sync() {
+      var dark = root.dataset.theme === "dark";
+      var text = dark ? "Cambiar a modo claro" : "Cambiar a modo oscuro";
+      btn.setAttribute("aria-label", text);
+      btn.title = text;
+      if (meta) meta.content = dark ? "#141413" : "#e7e7e4";
+    }
+
+    function stored() {
+      try { return localStorage.getItem("tema"); } catch (e) { return null; }
+    }
+
+    btn.addEventListener("click", function () {
+      var next = root.dataset.theme === "dark" ? "light" : "dark";
+      root.dataset.theme = next;
+      try { localStorage.setItem("tema", next); } catch (e) { /* navegación privada */ }
+      sync();
+    });
+
+    /* Mientras nadie elija a mano, sigue al dispositivo */
+    window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", function (e) {
+      if (stored()) return;
+      root.dataset.theme = e.matches ? "dark" : "light";
+      sync();
+    });
+
+    sync();
   }
 
   /* ---------- Filtros ---------- */
@@ -104,6 +143,7 @@
   }
 
   function boot() {
+    safe(initTheme, "tema");
     safe(initFilters, "filtros");
     safe(initLightbox, "visor");
   }

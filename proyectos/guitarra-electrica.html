@@ -13,19 +13,24 @@
 <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
 <link rel="icon" href="../assets/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="../assets/favicon-180.png">
-<link rel="stylesheet" href="../styles.css?v=20261106-2">
-<script>document.documentElement.classList.add("js");addEventListener("pagereveal",function(e){var t=e.viewTransition;if(t){t.ready.catch(function(){});t.finished.catch(function(){})}})</script>
-<script defer src="../main.js?v=20261106-2"></script>
+<link rel="stylesheet" href="../styles.css?v=20261106-3">
+<script>(function(){var d=document.documentElement,t;d.classList.add("js");try{t=localStorage.getItem("tema")}catch(e){}d.dataset.theme=t||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")})();addEventListener("pagereveal",function(e){var t=e.viewTransition;if(t){t.ready.catch(function(){});t.finished.catch(function(){})}})</script>
+<script defer src="../main.js?v=20261106-3"></script>
 </head>
 <body>
 <a class="skip" href="#contenido">Saltar al contenido</a>
 <header class="nav">
   <a class="nav__brand" href="../index.html"><img src="../assets/logo.webp" alt="Aerografía Chus" width="312" height="73"></a>
-  <nav class="nav__links" aria-label="Principal">
-    <a href="../index.html#proyectos">Proyectos</a>
-    <a href="../index.html#sobre">Sobre</a>
-    <a href="../index.html#contacto">Contacto</a>
-  </nav>
+  <div class="nav__end">
+    <nav class="nav__links" aria-label="Principal">
+      <a href="../index.html#proyectos">Proyectos</a>
+      <a href="../index.html#sobre">Sobre</a>
+      <a href="../index.html#contacto">Contacto</a>
+    </nav>
+    <button type="button" class="theme" data-theme-toggle aria-label="Cambiar de tema" title="Cambiar de tema">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="8" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 2a8 8 0 0 1 0 16z" fill="currentColor"/></svg>
+    </button>
+  </div>
 </header>
 
 <main class="work" id="contenido">

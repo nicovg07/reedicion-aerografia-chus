@@ -13,7 +13,7 @@ from html import escape
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-VERSION = "20261106-2"
+VERSION = "20261106-3"
 EMAIL = "aerografiachus@gmail.com"
 BLOG = "https://aerografiachus.blogspot.com/"
 SITE = "Aerografía Chus"
@@ -66,7 +66,7 @@ def head(title, desc, root=""):
 <link rel="icon" href="{root}assets/favicon-32.png" sizes="32x32" type="image/png">
 <link rel="apple-touch-icon" href="{root}assets/favicon-180.png">
 <link rel="stylesheet" href="{root}styles.css?v={VERSION}">
-<script>document.documentElement.classList.add("js");addEventListener("pagereveal",function(e){{var t=e.viewTransition;if(t){{t.ready.catch(function(){{}});t.finished.catch(function(){{}})}}}})</script>
+<script>(function(){{var d=document.documentElement,t;d.classList.add("js");try{{t=localStorage.getItem("tema")}}catch(e){{}}d.dataset.theme=t||(matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light")}})();addEventListener("pagereveal",function(e){{var t=e.viewTransition;if(t){{t.ready.catch(function(){{}});t.finished.catch(function(){{}})}}}})</script>
 <script defer src="{root}main.js?v={VERSION}"></script>
 """
 
@@ -76,11 +76,16 @@ def nav(root="", home=True):
     return f"""<a class="skip" href="#contenido">Saltar al contenido</a>
 <header class="nav">
   <a class="nav__brand" href="{root}index.html"><img src="{root}assets/logo.webp" alt="{SITE}" width="312" height="73"></a>
-  <nav class="nav__links" aria-label="Principal">
-    <a href="{pre}#proyectos">Proyectos</a>
-    <a href="{pre}#sobre">Sobre</a>
-    <a href="{pre}#contacto">Contacto</a>
-  </nav>
+  <div class="nav__end">
+    <nav class="nav__links" aria-label="Principal">
+      <a href="{pre}#proyectos">Proyectos</a>
+      <a href="{pre}#sobre">Sobre</a>
+      <a href="{pre}#contacto">Contacto</a>
+    </nav>
+    <button type="button" class="theme" data-theme-toggle aria-label="Cambiar de tema" title="Cambiar de tema">
+      <svg viewBox="0 0 20 20" aria-hidden="true"><circle cx="10" cy="10" r="8" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M10 2a8 8 0 0 1 0 16z" fill="currentColor"/></svg>
+    </button>
+  </div>
 </header>
 """
 

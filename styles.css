@@ -19,6 +19,7 @@
 }
 
 :root {
+  color-scheme: light;
   --primer: #e7e7e4;
   --ink: #121212;
   --mute: #5f5f5b;
@@ -33,6 +34,19 @@
   --mono: "DM Mono", ui-monospace, Menlo, Consolas, monospace;
   --ease: cubic-bezier(0.2, 0.7, 0.1, 1);
 }
+
+/* Modo oscuro: la imprimación negra */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --primer: #141413;
+  --ink: #ededea;
+  --mute: #a3a39e;
+  --line: #34342f;
+  --candy: #f0574a;
+}
+/* El logo es negro: en oscuro se invierte para que siga leyéndose */
+:root[data-theme="dark"] .nav__brand img,
+:root[data-theme="dark"] .foot img { filter: invert(1); }
 
 /* Transición entre páginas: la miniatura se convierte en la foto del proyecto */
 @view-transition { navigation: auto; }
@@ -106,7 +120,20 @@ button { font: inherit; color: inherit; background: none; border: 0; padding: 0;
 }
 .nav__brand { flex: none; }
 .nav__brand img { width: auto; height: 36px; }
+.nav__end { display: flex; align-items: center; gap: clamp(10px, 1.6vw, 22px); }
 .nav__links { display: flex; gap: clamp(14px, 2vw, 28px); font-size: 0.9375rem; }
+html:not(.js) .theme { display: none; }
+.theme {
+  display: grid;
+  place-items: center;
+  flex: none;
+  width: 32px;
+  height: 32px;
+  margin-right: -7px;
+  transition: color 0.2s;
+}
+.theme:hover { color: var(--candy); }
+.theme svg { display: block; width: 18px; height: 18px; }
 .nav__links a,
 .link {
   background: linear-gradient(currentColor, currentColor) 0 100% / 0 1px no-repeat;
@@ -389,12 +416,21 @@ html:not(.js) .filters { display: none; }
 
 @media (max-width: 520px) {
   body { font-size: 1rem; }
-  .nav__brand img { height: 30px; }
-  .nav__links { gap: 12px; font-size: 0.875rem; }
+  .nav { gap: 8px; }
+  .nav__brand img { height: 26px; }
+  .nav__end { gap: 6px; }
+  .nav__links { gap: 9px; font-size: 0.8125rem; }
   .filters { gap: 6px 9px; font-size: 0.875rem; }
   .tile__title { font-size: 0.9375rem; }
   .work__grid { columns: 1; }
   .stats { grid-template-columns: repeat(3, auto); justify-content: space-between; }
+}
+
+@media (max-width: 350px) {
+  .nav { gap: 6px; }
+  .nav__brand img { height: 23px; }
+  .nav__end { gap: 2px; }
+  .nav__links { gap: 7px; font-size: 0.78rem; }
 }
 
 @media print {
