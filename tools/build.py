@@ -13,7 +13,7 @@ from html import escape
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-VERSION = "20261106"
+VERSION = "20261106-2"
 EMAIL = "aerografiachus@gmail.com"
 BLOG = "https://aerografiachus.blogspot.com/"
 SITE = "Aerografía Chus"
@@ -99,13 +99,7 @@ def mailto():
 
 def tile(p):
     cover = image(p, p["cover"])
-    others = [i["k"] for i in p["images"] if i["k"] != p["cover"]]
-    alt_attr = ""
-    if others:
-        after = [k for k in others if k > p["cover"]]
-        second = after[0] if after else others[0]
-        alt_attr = f' data-alt="{img_path(p, second, True)}"'
-    return f"""      <li class="tile" data-cat="{p['cat']}"{alt_attr}>
+    return f"""      <li class="tile" data-cat="{p['cat']}">
         <a href="proyectos/{p['slug']}.html">
           <span class="tile__media" style="background:{cover['c']}"><img src="{img_path(p, p['cover'], True)}" alt="{escape(p['title'], quote=True)}" width="{cover['w']}" height="{cover['h']}" loading="lazy" decoding="async" style="view-transition-name:p{num(p)}"></span>
           <span class="tile__cap"><span class="tile__meta mono">{num(p)} · {p['date'][:4]}</span><span class="tile__title">{escape(p['title'])}</span></span>
@@ -136,9 +130,8 @@ def build_index():
         <a class="hero__cta link" href="#proyectos">Ver los {len(projects)} proyectos</a>
       </div>
     </div>
-    <figure class="hero__art" data-spray>
+    <figure class="hero__art">
       <img src="{img_path(hero, HERO[1])}" alt="Lambretta completa en verde y plata, con el número 23 aerografiado" width="{hero_img['w']}" height="{hero_img['h']}" fetchpriority="high" decoding="async">
-      <canvas aria-hidden="true"></canvas>
     </figure>
   </section>
 
