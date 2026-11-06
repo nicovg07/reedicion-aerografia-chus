@@ -1,0 +1,2690 @@
+[
+ {
+  "n": 1,
+  "slug": "casco-de-paco",
+  "title": "Casco de Paco",
+  "cat": "moto",
+  "kicker": "Primer proyecto",
+  "date": "2009-07-06",
+  "source": "https://aerografiachus.blogspot.com/2009/07/primer-proyecto-casco-de-paco.html",
+  "text": [],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#645f1c"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#4e4f3b"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#414733"
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "slug": "bicicleta-victor-juan",
+  "title": "Bicicleta Víctor Juan",
+  "cat": "otros",
+  "kicker": "Segundo proyecto",
+  "date": "2009-07-06",
+  "source": "https://aerografiachus.blogspot.com/2009/07/segundo-proyecto-bicicleta-victor-juan.html",
+  "text": [],
+  "cover": 3,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#a1918e"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#786949"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#917667"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#907553"
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "slug": "casco-de-rally-molina",
+  "title": "Casco de rally Molina",
+  "cat": "rally",
+  "kicker": "Tercer proyecto",
+  "date": "2009-07-06",
+  "source": "https://aerografiachus.blogspot.com/2009/07/tercer-proyecto-ejemplu-casco-de-rally.html",
+  "text": [],
+  "cover": 3,
+  "images": [
+   {
+    "k": 1,
+    "w": 1200,
+    "h": 1600,
+    "c": "#26251b"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#2d251e"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#2d2d20"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#35311f"
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "slug": "guitarra-ruben-spanta-la-xente",
+  "title": "Guitarra Rubén, Spanta La Xente",
+  "cat": "otros",
+  "kicker": "Cuarto proyecto",
+  "date": "2009-07-06",
+  "source": "https://aerografiachus.blogspot.com/2009/07/cuarto-proyecto-guitarra-ruben-spanta.html",
+  "text": [
+   "Proceso desde el principio, con la guitarra completamente dañada, hasta su posterior lijado, restaurado y acabado.",
+   "El dibuju ye de la Güestia tocando la gaita."
+  ],
+  "cover": 7,
+  "images": [
+   {
+    "k": 1,
+    "w": 1200,
+    "h": 1600,
+    "c": "#736354"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#3d3837"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#68676a"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#77726f"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#706b69"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#5a565b"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#675e59"
+   },
+   {
+    "k": 8,
+    "w": 1200,
+    "h": 1600,
+    "c": "#71625a"
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "slug": "casco-de-karting-angel-paniceres",
+  "title": "Casco de karting Ángel Paniceres",
+  "cat": "karting",
+  "kicker": null,
+  "date": "2011-04-22",
+  "source": "https://aerografiachus.blogspot.com/2011/04/casco-de-karting-angel-paniceres.html",
+  "text": [],
+  "cover": 3,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#77736e"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#675953"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#716b65"
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "slug": "casco-shoei-miguel",
+  "title": "Casco Shoei Miguel",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2011-04-22",
+  "source": "https://aerografiachus.blogspot.com/2011/04/casco-shoei-miguel.html",
+  "text": [],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1200,
+    "h": 1600,
+    "c": "#5a462e"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#4c3a20"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#554529"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#463723"
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "slug": "omp-de-team-racing",
+  "title": "OMP de Team Racing",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2011-05-18",
+  "source": "https://aerografiachus.blogspot.com/2011/05/omp-de-team-racing.html",
+  "text": [],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#42351f"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#312719"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#46381e"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#473920"
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "slug": "omp-de-team-racing-pareja",
+  "title": "OMP de Team Racing, pareja",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2011-05-21",
+  "source": "https://aerografiachus.blogspot.com/2011/05/omp-de-team-racing-pareja.html",
+  "text": [],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1200,
+    "h": 1600,
+    "c": "#46381e"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#383426"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#262319"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#403529"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#383023"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#3c3828"
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "slug": "casco-de-karting-juan-manuel-garcia",
+  "title": "Casco de karting Juan Manuel García",
+  "cat": "karting",
+  "kicker": null,
+  "date": "2011-05-31",
+  "source": "https://aerografiachus.blogspot.com/2011/05/casco-juan-manuel-garcia-karting.html",
+  "text": [],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#9b6f4b"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#9f734b"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#9b7153"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#9d6f45"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#a1715b"
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "slug": "lotus-seven",
+  "title": "Lotus Seven",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2011-05-31",
+  "source": "https://aerografiachus.blogspot.com/2011/05/lotus-seven-aerografiado-sobre-lienzo.html",
+  "text": [
+   "Aerografiado sobre lienzo."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#644c37"
+   }
+  ]
+ },
+ {
+  "n": 11,
+  "slug": "casco-mustang-p51",
+  "title": "Casco Mustang P51",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2011-06-27",
+  "source": "https://aerografiachus.blogspot.com/2011/06/casco-mustang-p51.html",
+  "text": [
+   "Decoración inspirada en el famoso caza norteamericano de la segunda guerra mundial. Mustang P51, a petición del cliente y amigo Nacho."
+  ],
+  "cover": 6,
+  "images": [
+   {
+    "k": 1,
+    "w": 341,
+    "h": 512,
+    "c": "#6c594a"
+   },
+   {
+    "k": 2,
+    "w": 720,
+    "h": 480,
+    "c": "#838384"
+   },
+   {
+    "k": 3,
+    "w": 720,
+    "h": 480,
+    "c": "#948070"
+   },
+   {
+    "k": 4,
+    "w": 720,
+    "h": 480,
+    "c": "#746153"
+   },
+   {
+    "k": 5,
+    "w": 720,
+    "h": 480,
+    "c": "#646465"
+   },
+   {
+    "k": 6,
+    "w": 720,
+    "h": 480,
+    "c": "#927d6c"
+   },
+   {
+    "k": 7,
+    "w": 341,
+    "h": 512,
+    "c": "#897567"
+   },
+   {
+    "k": 8,
+    "w": 720,
+    "h": 480,
+    "c": "#4e4e4f"
+   },
+   {
+    "k": 9,
+    "w": 720,
+    "h": 480,
+    "c": "#8f7a69"
+   },
+   {
+    "k": 10,
+    "w": 720,
+    "h": 480,
+    "c": "#886c55"
+   }
+  ]
+ },
+ {
+  "n": 12,
+  "slug": "casco-de-karting-sofia-paniceres",
+  "title": "Casco de karting Sofía Paniceres",
+  "cat": "karting",
+  "kicker": null,
+  "date": "2011-08-31",
+  "source": "https://aerografiachus.blogspot.com/2011/08/casco-karting-sofia-paniceres.html",
+  "text": [],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#977a63"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#8b6d56"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#9a785e"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7f6e63"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#a18772"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#99765f"
+   }
+  ]
+ },
+ {
+  "n": 13,
+  "slug": "casco-nuria",
+  "title": "Casco Nuria",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2011-12-18",
+  "source": "https://aerografiachus.blogspot.com/2011/12/casco-nuria-campeona-de-asturias-de.html",
+  "text": [
+   "Campeona de Asturias de patinaje."
+  ],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#998263"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#8b7a5b"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#967e62"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#a2896b"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#8c765c"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#574435"
+   }
+  ]
+ },
+ {
+  "n": 14,
+  "slug": "setter-irlandes",
+  "title": "Setter irlandés",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2011-12-18",
+  "source": "https://aerografiachus.blogspot.com/2011/12/seter-irlandes.html",
+  "text": [
+   "Este trabajo se trata de un setter irlandés, perro de caza de un compañero. Está pintado totalmente a mano alzada en la tapa embellecedor de la rueda de repuesto de un todoterreno.",
+   "Las fotos están sacadas antes del lacado, a continuación podréis ver las fotos con la pieza lacada y ya colocada en el todoterreno."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1200,
+    "h": 1600,
+    "c": "#70706e"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#746c6a"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#6f7377"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#5e6266"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#656567"
+   }
+  ]
+ },
+ {
+  "n": 15,
+  "slug": "casco-vintage-vespa",
+  "title": "Casco vintage Vespa",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2012-01-04",
+  "source": "https://aerografiachus.blogspot.com/2012/01/casco-vintage-tematica-vespa.html",
+  "text": [
+   "Pues eso, que me pidieron temática Vespa para la decoración de este casco abierto de corte clásico, que llevara el color rojo como predominante y con la tira ajedrezada de delante a atrás, lo demás sería cosa mía y parece ser que el resultado les ha gustado, espero que a vosotros también."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#764b3d"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#a0705c"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#a86c5c"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#a66957"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#936d5a"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#916a57"
+   }
+  ]
+ },
+ {
+  "n": 16,
+  "slug": "casco-engranajes",
+  "title": "Casco engranajes",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2012-02-19",
+  "source": "https://aerografiachus.blogspot.com/2012/02/casco-engranajes.html",
+  "text": [
+   "Un diseño que había hecho en papel y que tenía ganas de plasmarlo en algún casco. Le gustó a Cape un motero del Motoclub Asturias y aquí lo tenéis, espero que os guste."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#8f7459"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#7f6754"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7d644a"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#957c62"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#7e6853"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#977c61"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#997d63"
+   }
+  ]
+ },
+ {
+  "n": 17,
+  "slug": "cascos-rallye-stilo-angel-paniceres",
+  "title": "Cascos rallye Stilo Ángel Paniceres",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2012-03-15",
+  "source": "https://aerografiachus.blogspot.com/2012/03/cascos-rallye-stilo-angel-paniceres_15.html",
+  "text": [
+   "Un par de cascos abiertos de la marca Stilo, con un diseño en cuatro colores elegante pero racing."
+  ],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#977c60"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#937c5e"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#9c8565"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#9d8668"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#977d5b"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#907b5e"
+   }
+  ]
+ },
+ {
+  "n": 18,
+  "slug": "casco-bell-de-karting-sofia-paniceres",
+  "title": "Casco Bell de karting Sofía Paniceres",
+  "cat": "karting",
+  "kicker": null,
+  "date": "2012-03-15",
+  "source": "https://aerografiachus.blogspot.com/2012/03/casco-bell-karting-sofia-paniceres.html",
+  "text": [
+   "Un nuevo diseño para Sofía con su característico Stitch, espero le traiga suerte."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#a07952"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#8a6537"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#9b784f"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#a97f4c"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#a97b46"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#9f773b"
+   }
+  ]
+ },
+ {
+  "n": 19,
+  "slug": "casco-bell-de-karting-roberto-carro",
+  "title": "Casco Bell de karting Roberto Carro",
+  "cat": "karting",
+  "kicker": null,
+  "date": "2012-04-01",
+  "source": "https://aerografiachus.blogspot.com/2012/04/casco-karting-de-bell-helmets-para.html",
+  "text": [],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#957c62"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#967d61"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#8d7b65"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#9a8269"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#937860"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#a0876b"
+   },
+   {
+    "k": 7,
+    "w": 1200,
+    "h": 1600,
+    "c": "#966f4d"
+   },
+   {
+    "k": 8,
+    "w": 1200,
+    "h": 1600,
+    "c": "#936f4a"
+   }
+  ]
+ },
+ {
+  "n": 20,
+  "slug": "casco-rallye-stilo-alberto-mateos",
+  "title": "Casco rallye Stilo Alberto Mateos",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2012-04-25",
+  "source": "https://aerografiachus.blogspot.com/2012/04/casco-rallye-marca-stilo.html",
+  "text": [
+   "Un nuevo casco de rallye de la marca Stilo, para Alberto Mateos, piloto asturiano de un bonito Sierra Cosworth."
+  ],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#6a6261"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#836864"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#726868"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#716464"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#6c6c58"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#796c6e"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#786d6c"
+   }
+  ]
+ },
+ {
+  "n": 21,
+  "slug": "casco-bmw-betty-boop",
+  "title": "Casco BMW Betty Boop",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2012-04-25",
+  "source": "https://aerografiachus.blogspot.com/2012/04/casco-bmw-betty-boop.html",
+  "text": [
+   "Casco con motivos de la siempre sexy Betty Boop para una chica motera."
+  ],
+  "cover": 6,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#82634d"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#8b694d"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#856048"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#725e4d"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#68513e"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#8d563b"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7c5a40"
+   },
+   {
+    "k": 8,
+    "w": 1600,
+    "h": 1200,
+    "c": "#583e30"
+   }
+  ]
+ },
+ {
+  "n": 22,
+  "slug": "casco-edu",
+  "title": "Casco Edu",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2012-06-24",
+  "source": "https://aerografiachus.blogspot.com/2012/06/casco-edu.html",
+  "text": [
+   "Casco pareja del de Gloria, pero con otros motivos como banderas y un Pelayo caricaturizado."
+  ],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#161821"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#272224"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#32344c"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#42445f"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#312632"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#3a333a"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#332730"
+   },
+   {
+    "k": 8,
+    "w": 1600,
+    "h": 1200,
+    "c": "#222940"
+   }
+  ]
+ },
+ {
+  "n": 23,
+  "slug": "casco-schuberth-c3-xabi",
+  "title": "Casco Schuberth C3 Xabi",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2012-06-24",
+  "source": "https://aerografiachus.blogspot.com/2012/06/casco-shuberth-c3-xabi.html",
+  "text": [
+   "Un diseño totalmente a juego con su moto, Honda Repsol réplica, con algún motivo haciendo mención a su otra afición, el fútbol."
+  ],
+  "cover": 3,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#373126"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#452f12"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#332d24"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#3f342a"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#463e2c"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#6e4a1c"
+   }
+  ]
+ },
+ {
+  "n": 24,
+  "slug": "careta-de-soldar",
+  "title": "Careta de soldar",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2012-06-24",
+  "source": "https://aerografiachus.blogspot.com/2012/06/careta-de-soldar.html",
+  "text": [
+   "Un diseño a base de remaches, chapas y engranajes para un soldador, sé que va a darle pena usarla. Me encanta probar a pintar sobre nuevas superficies."
+  ],
+  "cover": 5,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#625d55"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#5d5852"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#676157"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#615c54"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#68625b"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#605c56"
+   },
+   {
+    "k": 7,
+    "w": 1200,
+    "h": 1600,
+    "c": "#635d54"
+   },
+   {
+    "k": 8,
+    "w": 1600,
+    "h": 1200,
+    "c": "#615a54"
+   }
+  ]
+ },
+ {
+  "n": 25,
+  "slug": "casco-joker-hayabusa",
+  "title": "Casco Joker Hayabusa",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2012-08-08",
+  "source": "https://aerografiachus.blogspot.com/2012/08/nuevo-casco-terminado-en-este-caso-para.html",
+  "text": [
+   "Un nuevo casco terminado, en este caso para un motero amigo mío que tiene una Suzuki Hayabusa, por eso lo del logo lateral, y como quería un joker en la parte de atrás le pinté este que me pareció bastante siniestro y totalmente a mano alzada, espero que os guste."
+  ],
+  "cover": 3,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#5c5766"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#6b605f"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#6b5f5b"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#6c6562"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#5f5866"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#626279"
+   }
+  ]
+ },
+ {
+  "n": 26,
+  "slug": "casco-de-ski-transformers",
+  "title": "Casco de ski Transformers",
+  "cat": "ski",
+  "kicker": null,
+  "date": "2012-12-09",
+  "source": "https://aerografiachus.blogspot.com/2012/12/despues-de-tres-anos-dandome-la-turra.html",
+  "text": [
+   "Después de tres años dándome la turra mi hijo, que si pinto para todo dios y su casco de esquiar sin pintar, manos a la obra y como le encantan los Transformers esto fue lo que me salió. La verdad es que acerté con el diseño, ya que le encantó."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#ac611b"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#9a651e"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#a06319"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#a26828"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#8e5620"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#a3631d"
+   },
+   {
+    "k": 7,
+    "w": 1200,
+    "h": 1600,
+    "c": "#8d541a"
+   }
+  ]
+ },
+ {
+  "n": 27,
+  "slug": "casco-stilo-j-roces",
+  "title": "Casco Stilo J. Roces",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2012-12-16",
+  "source": "https://aerografiachus.blogspot.com/2012/12/un-nuevo-casco-para-automovilismo-de-la.html",
+  "text": [
+   "Un nuevo casco para automovilismo de la marca Stilo, en este caso para un joven piloto asturiano."
+  ],
+  "cover": 3,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7a654c"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#7c6b55"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#72614a"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#71634c"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#615c4b"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#7f6c51"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#826f50"
+   }
+  ]
+ },
+ {
+  "n": 28,
+  "slug": "casco-de-ski-manu",
+  "title": "Casco de ski Manu",
+  "cat": "ski",
+  "kicker": null,
+  "date": "2013-01-09",
+  "source": "https://aerografiachus.blogspot.com/2013/01/este-se-trata-de-un-casco-de-ski-diseno.html",
+  "text": [
+   "Este se trata de un casco de ski, diseño sencillo al gusto del cliente."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#5c5a50"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#656047"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#766451"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#504e43"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#6b614a"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#5c563f"
+   }
+  ]
+ },
+ {
+  "n": 29,
+  "slug": "casco-jet-dainese-kevin-schwantz",
+  "title": "Casco jet Dainese, Kevin Schwantz",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2013-01-10",
+  "source": "https://aerografiachus.blogspot.com/2013/01/casco-jet-dainese.html",
+  "text": [
+   "Casco tipo jet de la marca Dainese, cuya temática escogida ha sido la referente al piloto Kevin Schwantz famoso por sus derrapadas, adelantamientos espectaculares y campeón del mundo de motociclismo."
+  ],
+  "cover": 6,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#8a8275"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7e756c"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#574e39"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#847c6c"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#867d70"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#877c68"
+   },
+   {
+    "k": 7,
+    "w": 1200,
+    "h": 1600,
+    "c": "#867c6a"
+   },
+   {
+    "k": 8,
+    "w": 1200,
+    "h": 1600,
+    "c": "#706658"
+   },
+   {
+    "k": 9,
+    "w": 1200,
+    "h": 1600,
+    "c": "#796f61"
+   },
+   {
+    "k": 10,
+    "w": 1600,
+    "h": 1200,
+    "c": "#83776f"
+   },
+   {
+    "k": 11,
+    "w": 1600,
+    "h": 1200,
+    "c": "#877e71"
+   }
+  ]
+ },
+ {
+  "n": 30,
+  "slug": "casco-jet-harley-davidson",
+  "title": "Casco jet Harley-Davidson",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2013-02-17",
+  "source": "https://aerografiachus.blogspot.com/2013/02/casco-jet-harley-davidson.html",
+  "text": [
+   "En esta ocasión se trata de un casco tipo jet de la marca Harley Davidson, decoración inspirada en el motorista fantasma, y combinación de colores a juego con la moto."
+  ],
+  "cover": 5,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7f6f5a"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#877962"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#8e7b66"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#87755e"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#887e64"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#726850"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#86725b"
+   }
+  ]
+ },
+ {
+  "n": 31,
+  "slug": "casco-rallye-stilo-angel-paniceres",
+  "title": "Casco rallye Stilo Ángel Paniceres",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2013-02-25",
+  "source": "https://aerografiachus.blogspot.com/2013/02/casco-rallye-stilo-angel-paniceres.html",
+  "text": [
+   "Último trabajo, en este caso sobre un casco integral de la marca Stilo para el debut en rallyes de un piloto que confía en mis diseños. Gracias Ángel y que este casco te dé muchas alegrías."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#817869"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#867a66"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#8a806f"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#81776f"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7c7c73"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#817870"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#827a73"
+   },
+   {
+    "k": 8,
+    "w": 1600,
+    "h": 1200,
+    "c": "#6d7271"
+   },
+   {
+    "k": 9,
+    "w": 1200,
+    "h": 1600,
+    "c": "#777872"
+   }
+  ]
+ },
+ {
+  "n": 32,
+  "slug": "casco-harley-davidson-105-aniversario",
+  "title": "Casco Harley-Davidson 105 aniversario",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2013-04-14",
+  "source": "https://aerografiachus.blogspot.com/2013/04/casco-harley-davidson-105-aniversario.html",
+  "text": [
+   "Casco temática Harley-Davidson, en este caso para una moto modelo Fat Boy que es una serie limitada perteneciente al ciento cinco aniversario de la marca de Milwaukee."
+  ],
+  "cover": 5,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7d7465"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#806d59"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#7f7567"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7c7367"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#88755c"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#897b64"
+   },
+   {
+    "k": 7,
+    "w": 1200,
+    "h": 1600,
+    "c": "#85725f"
+   },
+   {
+    "k": 8,
+    "w": 1200,
+    "h": 1600,
+    "c": "#8d826d"
+   }
+  ]
+ },
+ {
+  "n": 33,
+  "slug": "guitarra-electrica",
+  "title": "Guitarra eléctrica",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2013-04-23",
+  "source": "https://aerografiachus.blogspot.com/2013/04/gitarra-electrica.html",
+  "text": [
+   "Un nuevo trabajo terminado, aunque en este caso no se trata de un casco sino de una guitarra eléctrica con calavera y cementerio incluido."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#76706c"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#636263"
+   },
+   {
+    "k": 3,
+    "w": 1200,
+    "h": 1600,
+    "c": "#696660"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#57544c"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#7a7670"
+   }
+  ]
+ },
+ {
+  "n": 34,
+  "slug": "casco-jet-lambretta",
+  "title": "Casco jet Lambretta",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2013-05-29",
+  "source": "https://aerografiachus.blogspot.com/2013/05/casco-jet-lambretta.html",
+  "text": [
+   "Volvemos a los cascos con un jet a juego con una preciosa Lambretta recién restaurada por mi amigo Juan."
+  ],
+  "cover": 3,
+  "images": [
+   {
+    "k": 1,
+    "w": 960,
+    "h": 720,
+    "c": "#635f5c"
+   },
+   {
+    "k": 2,
+    "w": 960,
+    "h": 640,
+    "c": "#596776"
+   },
+   {
+    "k": 3,
+    "w": 960,
+    "h": 720,
+    "c": "#696460"
+   },
+   {
+    "k": 4,
+    "w": 960,
+    "h": 720,
+    "c": "#5b5551"
+   },
+   {
+    "k": 5,
+    "w": 960,
+    "h": 720,
+    "c": "#645f5b"
+   },
+   {
+    "k": 6,
+    "w": 960,
+    "h": 720,
+    "c": "#646361"
+   },
+   {
+    "k": 7,
+    "w": 960,
+    "h": 720,
+    "c": "#6f665f"
+   },
+   {
+    "k": 8,
+    "w": 960,
+    "h": 720,
+    "c": "#66605a"
+   }
+  ]
+ },
+ {
+  "n": 35,
+  "slug": "primera-victoria-de-angel-paniceres-jr",
+  "title": "Primera victoria de Ángel Paniceres Jr.",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2013-06-16",
+  "source": "https://aerografiachus.blogspot.com/2013/06/primera-victoria-en-su-categoria-para.html",
+  "text": [
+   "Primera victoria en su categoría para Ángel Paniceres Jr."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 960,
+    "h": 640,
+    "c": "#91908e"
+   },
+   {
+    "k": 2,
+    "w": 300,
+    "h": 206,
+    "c": "#656f73"
+   }
+  ]
+ },
+ {
+  "n": 36,
+  "slug": "homenaje-a-gilles-villeneuve",
+  "title": "Homenaje a Gilles Villeneuve",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2013-08-13",
+  "source": "https://aerografiachus.blogspot.com/2013/08/un-bonito-homenaje-al-malogrado-piloto.html",
+  "text": [
+   "Un bonito homenaje al malogrado piloto canadiense fallecido en los entrenamientos del Gran Premio de Zolder, la decoración incluye los colores que portaba su casco y al que le añadí, a petición de Fernando, un incondicional suyo, algunos detalles relativos a su corta carrera automovilística como el número veintisiete que portaba en su Ferrari y los circuitos donde consiguió sus seis victorias, espero que os guste."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#856f75"
+   },
+   {
+    "k": 2,
+    "w": 1200,
+    "h": 1600,
+    "c": "#746b74"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#8f7677"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#90767a"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#826e6b"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#78706f"
+   }
+  ]
+ },
+ {
+  "n": 37,
+  "slug": "casco-mustang-p51-manu",
+  "title": "Casco Mustang P51 Manu",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2013-08-13",
+  "source": "https://aerografiachus.blogspot.com/2013/08/ultimo-casco-terminado-en-este-caso.html",
+  "text": [
+   "Último casco terminado, en este caso a Manu, su dueño, le encantan los Mustang P51, los llamados cadillacs del cielo, caza americano de la Segunda Guerra Mundial, situado en la parte de atrás, y unas pin-ups en laterales le dan un toque chulo que le da color al gris del panelado y remaches."
+  ],
+  "cover": 3,
+  "images": [
+   {
+    "k": 1,
+    "w": 640,
+    "h": 480,
+    "c": "#98908b"
+   },
+   {
+    "k": 2,
+    "w": 600,
+    "h": 800,
+    "c": "#958782"
+   },
+   {
+    "k": 3,
+    "w": 640,
+    "h": 480,
+    "c": "#89807a"
+   },
+   {
+    "k": 4,
+    "w": 480,
+    "h": 640,
+    "c": "#79787d"
+   },
+   {
+    "k": 5,
+    "w": 480,
+    "h": 640,
+    "c": "#93827d"
+   },
+   {
+    "k": 6,
+    "w": 480,
+    "h": 640,
+    "c": "#8d8683"
+   },
+   {
+    "k": 7,
+    "w": 480,
+    "h": 640,
+    "c": "#7f746e"
+   },
+   {
+    "k": 8,
+    "w": 640,
+    "h": 480,
+    "c": "#7e7b7a"
+   }
+  ]
+ },
+ {
+  "n": 38,
+  "slug": "casco-bmw-system-6-salva",
+  "title": "Casco BMW System 6 Salva",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2013-10-30",
+  "source": "https://aerografiachus.blogspot.com/2013/10/casco-bmw-system-6-con-un-diseno.html",
+  "text": [
+   "Casco BMW System 6 con un diseño sencillo pero elegante inspirado en los colores y temática de la moto en la que disfruta Salva, su dueño, una 1600 GT de la misma marca."
+  ],
+  "cover": 6,
+  "images": [
+   {
+    "k": 1,
+    "w": 960,
+    "h": 720,
+    "c": "#9c8380"
+   },
+   {
+    "k": 2,
+    "w": 960,
+    "h": 720,
+    "c": "#ac9691"
+   },
+   {
+    "k": 3,
+    "w": 960,
+    "h": 720,
+    "c": "#997e7a"
+   },
+   {
+    "k": 4,
+    "w": 960,
+    "h": 720,
+    "c": "#877575"
+   },
+   {
+    "k": 5,
+    "w": 960,
+    "h": 720,
+    "c": "#a88b82"
+   },
+   {
+    "k": 6,
+    "w": 960,
+    "h": 720,
+    "c": "#af8f8d"
+   },
+   {
+    "k": 7,
+    "w": 960,
+    "h": 720,
+    "c": "#9c8280"
+   }
+  ]
+ },
+ {
+  "n": 39,
+  "slug": "casco-de-karting-ivan-riera",
+  "title": "Casco de karting Iván Riera",
+  "cat": "karting",
+  "kicker": null,
+  "date": "2013-10-30",
+  "source": "https://aerografiachus.blogspot.com/2013/10/casco-para-karting-con-colores-neones.html",
+  "text": [
+   "Casco para karting con colores neones de la marca House of Colors y con un diseño muy llamativo al gusto del joven piloto de la cuenca del Nalón Iván Riera, con caricatura aerografiada en la parte de atrás."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 960,
+    "h": 720,
+    "c": "#a7a084"
+   },
+   {
+    "k": 2,
+    "w": 960,
+    "h": 720,
+    "c": "#a29d7b"
+   },
+   {
+    "k": 3,
+    "w": 960,
+    "h": 720,
+    "c": "#a7a182"
+   },
+   {
+    "k": 4,
+    "w": 960,
+    "h": 720,
+    "c": "#8b8d4b"
+   },
+   {
+    "k": 5,
+    "w": 960,
+    "h": 720,
+    "c": "#a69e89"
+   },
+   {
+    "k": 6,
+    "w": 720,
+    "h": 960,
+    "c": "#9e9e7a"
+   },
+   {
+    "k": 7,
+    "w": 720,
+    "h": 960,
+    "c": "#a9a287"
+   }
+  ]
+ },
+ {
+  "n": 40,
+  "slug": "casco-de-ski-rana-y-mariposa",
+  "title": "Casco de ski rana y mariposa",
+  "cat": "ski",
+  "kicker": null,
+  "date": "2013-11-17",
+  "source": "https://aerografiachus.blogspot.com/2013/11/casco-ski.html",
+  "text": [
+   "Casco de ski de mi mujer, para que luego diga que no pinto nada en casa, jejeje, espero que os guste."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#918363"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#6f8365"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#639475"
+   },
+   {
+    "k": 4,
+    "w": 1200,
+    "h": 1600,
+    "c": "#728064"
+   }
+  ]
+ },
+ {
+  "n": 41,
+  "slug": "casco-de-ski-angela",
+  "title": "Casco de ski Angela",
+  "cat": "ski",
+  "kicker": null,
+  "date": "2013-12-02",
+  "source": "https://aerografiachus.blogspot.com/2013/12/como-estamos-en-la-epoca-adecuada-un.html",
+  "text": [
+   "Como estamos en la época adecuada, un nuevo casco de ski, esta vez para una niña, llamada Angela como podéis ver en las fotos, con su mascota pintada en la parte de atrás simulando una fotografía en relieve sujeta con cinta de enmascarar."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 800,
+    "h": 601,
+    "c": "#b1a695"
+   },
+   {
+    "k": 2,
+    "w": 800,
+    "h": 601,
+    "c": "#c2b9b3"
+   },
+   {
+    "k": 3,
+    "w": 601,
+    "h": 800,
+    "c": "#c0b9ae"
+   }
+  ]
+ },
+ {
+  "n": 42,
+  "slug": "casco-schuberth-miguel",
+  "title": "Casco Schuberth Miguel",
+  "cat": "moto",
+  "kicker": null,
+  "date": "2013-12-09",
+  "source": "https://aerografiachus.blogspot.com/2013/12/un-nuevo-casco-de-la-marca-schuberth.html",
+  "text": [
+   "Un nuevo casco de la marca Schuberth. Diseño muy sencillo a petición de mi amigo Miguel, inspirado en la moto BMW K1200LT y en sus tomas de aire."
+  ],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 1280,
+    "h": 960,
+    "c": "#98918e"
+   },
+   {
+    "k": 2,
+    "w": 1280,
+    "h": 960,
+    "c": "#b1a79f"
+   },
+   {
+    "k": 3,
+    "w": 1280,
+    "h": 960,
+    "c": "#a7a39f"
+   },
+   {
+    "k": 4,
+    "w": 1280,
+    "h": 960,
+    "c": "#aca6a2"
+   },
+   {
+    "k": 5,
+    "w": 1280,
+    "h": 960,
+    "c": "#afa59e"
+   },
+   {
+    "k": 6,
+    "w": 960,
+    "h": 1280,
+    "c": "#a09b99"
+   },
+   {
+    "k": 7,
+    "w": 960,
+    "h": 1280,
+    "c": "#ada7a0"
+   },
+   {
+    "k": 8,
+    "w": 960,
+    "h": 1280,
+    "c": "#a39c98"
+   },
+   {
+    "k": 9,
+    "w": 1280,
+    "h": 960,
+    "c": "#a4a09d"
+   },
+   {
+    "k": 10,
+    "w": 1280,
+    "h": 960,
+    "c": "#aba39c"
+   },
+   {
+    "k": 11,
+    "w": 1280,
+    "h": 960,
+    "c": "#afa7a1"
+   }
+  ]
+ },
+ {
+  "n": 43,
+  "slug": "casco-de-ski-navarro-optico",
+  "title": "Casco de ski Navarro Óptico",
+  "cat": "ski",
+  "kicker": null,
+  "date": "2014-03-09",
+  "source": "https://aerografiachus.blogspot.com/2014/03/casco-de-ski-para-el-dueno-de-navarro.html",
+  "text": [
+   "Casco de ski para el dueño de Navarro Óptico."
+  ],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 821,
+    "h": 616,
+    "c": "#8a8485"
+   },
+   {
+    "k": 2,
+    "w": 821,
+    "h": 616,
+    "c": "#918c8f"
+   },
+   {
+    "k": 3,
+    "w": 821,
+    "h": 616,
+    "c": "#928a8a"
+   },
+   {
+    "k": 4,
+    "w": 821,
+    "h": 616,
+    "c": "#8e8b8c"
+   },
+   {
+    "k": 5,
+    "w": 821,
+    "h": 616,
+    "c": "#747179"
+   }
+  ]
+ },
+ {
+  "n": 44,
+  "slug": "casco-stilo-dani-crespo",
+  "title": "Casco Stilo Dani Crespo",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2014-03-09",
+  "source": "https://aerografiachus.blogspot.com/2014/03/casco-de-la-marca-stilo-para-dani.html",
+  "text": [
+   "Casco de la marca Stilo para Dani Crespo, piloto habitual del campeonato de rallyes de Asturias."
+  ],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 764,
+    "h": 573,
+    "c": "#b4aba7"
+   },
+   {
+    "k": 2,
+    "w": 764,
+    "h": 573,
+    "c": "#99939a"
+   },
+   {
+    "k": 3,
+    "w": 764,
+    "h": 573,
+    "c": "#a39c98"
+   },
+   {
+    "k": 4,
+    "w": 764,
+    "h": 573,
+    "c": "#9d999a"
+   },
+   {
+    "k": 5,
+    "w": 430,
+    "h": 573,
+    "c": "#a19b9b"
+   },
+   {
+    "k": 6,
+    "w": 430,
+    "h": 573,
+    "c": "#a19ca6"
+   },
+   {
+    "k": 7,
+    "w": 764,
+    "h": 573,
+    "c": "#9e9899"
+   }
+  ]
+ },
+ {
+  "n": 45,
+  "slug": "cuadro-cannondale",
+  "title": "Cuadro Cannondale",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2014-03-23",
+  "source": "https://aerografiachus.blogspot.com/2014/03/blog-post.html",
+  "text": [],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 960,
+    "h": 540,
+    "c": "#7d7f73"
+   },
+   {
+    "k": 2,
+    "w": 540,
+    "h": 960,
+    "c": "#6b7067"
+   },
+   {
+    "k": 3,
+    "w": 540,
+    "h": 960,
+    "c": "#676963"
+   },
+   {
+    "k": 4,
+    "w": 540,
+    "h": 960,
+    "c": "#5b7061"
+   },
+   {
+    "k": 5,
+    "w": 960,
+    "h": 540,
+    "c": "#72786f"
+   },
+   {
+    "k": 6,
+    "w": 540,
+    "h": 960,
+    "c": "#6b615f"
+   },
+   {
+    "k": 7,
+    "w": 960,
+    "h": 540,
+    "c": "#83807a"
+   }
+  ]
+ },
+ {
+  "n": 46,
+  "slug": "casco-rallye-jose-luis-pico",
+  "title": "Casco rallye José Luis Pico",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2014-05-14",
+  "source": "https://aerografiachus.blogspot.com/2014/05/casco-rallye-jose-luis-pico.html",
+  "text": [
+   "Casco rallye para un buen amigo cuyo diseño está inspirado en los colores de su coche y con algunos motivos a petición suya."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#78717b"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7e8498"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#64667a"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#838796"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#82878e"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#585868"
+   }
+  ]
+ },
+ {
+  "n": 47,
+  "slug": "templarios",
+  "title": "Templarios",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2014-05-14",
+  "source": "https://aerografiachus.blogspot.com/2014/05/templarios.html",
+  "text": [
+   "Qué mejor motivo que una aerografía para una Harley-Davidson, inspirada en los caballeros templarios y plasmada en el carenado frontal combinando con un escudo efecto cromo."
+  ],
+  "cover": 4,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1147,
+    "c": "#6a6162"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1075,
+    "c": "#8a8584"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1184,
+    "c": "#70636f"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#8b6c6e"
+   },
+   {
+    "k": 5,
+    "w": 1200,
+    "h": 1600,
+    "c": "#a7978d"
+   },
+   {
+    "k": 6,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7b5955"
+   },
+   {
+    "k": 7,
+    "w": 1600,
+    "h": 1200,
+    "c": "#a1928f"
+   },
+   {
+    "k": 8,
+    "w": 1600,
+    "h": 1200,
+    "c": "#836762"
+   }
+  ]
+ },
+ {
+  "n": 48,
+  "slug": "homenaje-a-jim-clark",
+  "title": "Homenaje a Jim Clark",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2014-09-14",
+  "source": "https://aerografiachus.blogspot.com/2014/09/blog-post.html",
+  "text": [],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 960,
+    "h": 720,
+    "c": "#837f7e"
+   }
+  ]
+ },
+ {
+  "n": 49,
+  "slug": "casco-bell-de-karting-izan",
+  "title": "Casco Bell de karting Izan",
+  "cat": "karting",
+  "kicker": null,
+  "date": "2014-09-14",
+  "source": "https://aerografiachus.blogspot.com/2014/09/blog-post_14.html",
+  "text": [],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 960,
+    "h": 720,
+    "c": "#a79d8a"
+   },
+   {
+    "k": 2,
+    "w": 960,
+    "h": 720,
+    "c": "#a09693"
+   },
+   {
+    "k": 3,
+    "w": 960,
+    "h": 720,
+    "c": "#9f9689"
+   },
+   {
+    "k": 4,
+    "w": 960,
+    "h": 720,
+    "c": "#a09482"
+   },
+   {
+    "k": 5,
+    "w": 960,
+    "h": 720,
+    "c": "#a59a8b"
+   },
+   {
+    "k": 6,
+    "w": 960,
+    "h": 720,
+    "c": "#a29882"
+   }
+  ]
+ },
+ {
+  "n": 50,
+  "slug": "lambretta-23",
+  "title": "Lambretta 23",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2014-09-14",
+  "source": "https://aerografiachus.blogspot.com/2014/09/blog-post_62.html",
+  "text": [
+   "Primera moto completa, una preciosa Lambretta."
+  ],
+  "cover": 2,
+  "images": [
+   {
+    "k": 1,
+    "w": 720,
+    "h": 1280,
+    "c": "#70776f"
+   },
+   {
+    "k": 2,
+    "w": 1280,
+    "h": 720,
+    "c": "#404c35"
+   },
+   {
+    "k": 3,
+    "w": 1280,
+    "h": 720,
+    "c": "#5e763f"
+   },
+   {
+    "k": 4,
+    "w": 1280,
+    "h": 720,
+    "c": "#586a3c"
+   },
+   {
+    "k": 5,
+    "w": 1280,
+    "h": 720,
+    "c": "#5a6c3f"
+   },
+   {
+    "k": 6,
+    "w": 1280,
+    "h": 720,
+    "c": "#5b783b"
+   }
+  ]
+ },
+ {
+  "n": 51,
+  "slug": "casco-rallye-stilo-alex",
+  "title": "Casco rallye Stilo Alex",
+  "cat": "rally",
+  "kicker": null,
+  "date": "2014-09-14",
+  "source": "https://aerografiachus.blogspot.com/2014/09/blog-post_66.html",
+  "text": [
+   "Casco rallye de la marca Stilo."
+  ],
+  "cover": 4,
+  "images": [
+   {
+    "k": 1,
+    "w": 720,
+    "h": 960,
+    "c": "#616763"
+   },
+   {
+    "k": 2,
+    "w": 960,
+    "h": 720,
+    "c": "#85838c"
+   },
+   {
+    "k": 3,
+    "w": 960,
+    "h": 720,
+    "c": "#717177"
+   },
+   {
+    "k": 4,
+    "w": 960,
+    "h": 720,
+    "c": "#506675"
+   },
+   {
+    "k": 5,
+    "w": 960,
+    "h": 720,
+    "c": "#65676c"
+   },
+   {
+    "k": 6,
+    "w": 960,
+    "h": 720,
+    "c": "#7c7d7c"
+   },
+   {
+    "k": 7,
+    "w": 960,
+    "h": 720,
+    "c": "#696b70"
+   },
+   {
+    "k": 8,
+    "w": 960,
+    "h": 720,
+    "c": "#767670"
+   },
+   {
+    "k": 9,
+    "w": 960,
+    "h": 720,
+    "c": "#6d6874"
+   }
+  ]
+ },
+ {
+  "n": 52,
+  "slug": "casco-de-skate-juegos-del-hambre",
+  "title": "Casco de skate Juegos del Hambre",
+  "cat": "otros",
+  "kicker": null,
+  "date": "2014-09-28",
+  "source": "https://aerografiachus.blogspot.com/2014/09/casco-de-skate-con-fuego-real-e.html",
+  "text": [
+   "Casco de skate con fuego real e inspirado en la peli Los juegos del hambre."
+  ],
+  "cover": 1,
+  "images": [
+   {
+    "k": 1,
+    "w": 1600,
+    "h": 1200,
+    "c": "#726454"
+   },
+   {
+    "k": 2,
+    "w": 1600,
+    "h": 1200,
+    "c": "#937f6b"
+   },
+   {
+    "k": 3,
+    "w": 1600,
+    "h": 1200,
+    "c": "#7d7869"
+   },
+   {
+    "k": 4,
+    "w": 1600,
+    "h": 1200,
+    "c": "#625742"
+   },
+   {
+    "k": 5,
+    "w": 1600,
+    "h": 1200,
+    "c": "#90806d"
+   },
+   {
+    "k": 6,
+    "w": 1200,
+    "h": 1600,
+    "c": "#66563a"
+   }
+  ]
+ }
+]
